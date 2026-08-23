@@ -10,6 +10,9 @@ The vast majority of orders were successfully shipped or delivered; cancellation
 The dataset also contained a data quality issue: roughly 200+ orders marked "Shipped" had no recorded sale Amount — worth flagging as an inconsistency rather than treating as clean data.
 
 Tools used: Python, Pandas, Matplotlib (in VS Code)
-[View the analysis code here]([View the analysis code here](paste-the-copied-link-here))
+
+[View the analysis code here](https://github.com/mdayan-29/amazon-sales-analysis/blob/main/explore.py)
+
+
 
 
